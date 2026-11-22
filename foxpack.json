@@ -1,0 +1,11 @@
+{
+  "name": "foxdock-clock",
+  "kind": "foxdock-plugin",
+  "id": "clock",
+  "foxdockApi": 1,
+  "version": "1.0.0",
+  "description": "A clock in the FoxDock menu",
+  "license": "MIT",
+  "files": ["ClockPlugin.prg"],
+  "requires": []
+}
